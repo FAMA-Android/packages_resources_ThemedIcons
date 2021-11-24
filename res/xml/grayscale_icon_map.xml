@@ -9,6 +9,7 @@
     <icon drawable="@drawable/themed_icon_duo" package="com.google.android.apps.tachyon" />
     <icon drawable="@drawable/themed_icon_google_assistant" package="com.google.android.apps.googleassistant" />
     <icon drawable="@drawable/themed_icon_messages" package="com.google.android.apps.messaging" />
+    <icon drawable="@drawable/themed_icon_messages" package="com.android.messaging" />    
     <icon drawable="@drawable/themed_icon_safety" package="com.google.android.apps.safetyhub" />
     <icon drawable="@drawable/themed_icon_calculator" package="com.google.android.calculator" />
     <icon drawable="@drawable/themed_icon_family_link" package="com.google.android.apps.kids.familylink" />
@@ -17,9 +18,12 @@
     <icon drawable="@drawable/themed_icon_news" package="com.google.android.apps.magazines" />
     <icon drawable="@drawable/themed_icon_settings" package="com.android.settings" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.google.android.calendar" />
+    <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
     <icon drawable="@drawable/themed_icon_files" package="com.google.android.apps.nbu.files" />
     <icon drawable="@drawable/themed_icon_google_one" package="com.google.android.apps.subscriptions.red" />
     <icon drawable="@drawable/themed_icon_photos" package="com.google.android.apps.photos" />
+    <icon drawable="@drawable/themed_icon_photos" package="com.android.gallery3d" />
+    <icon drawable="@drawable/themed_icon_photos" package="com.android.gallery" />
     <icon drawable="@drawable/themed_icon_sheets" package="com.google.android.apps.docs.editors.sheets" />
     <icon drawable="@drawable/themed_icon_camera" package="com.google.android.GoogleCamera" />
     <icon drawable="@drawable/themed_icon_camera" package="org.codeaurora.snapcam" />
@@ -35,12 +39,14 @@
     <icon drawable="@drawable/themed_icon_play_games" package="com.google.android.play.games" />
     <icon drawable="@drawable/themed_icon_slides" package="com.google.android.apps.docs.editors.slides" />
     <icon drawable="@drawable/themed_icon_contacts" package="com.google.android.contacts" />
+    <icon drawable="@drawable/themed_icon_contacts" package="com.android.contacts" />
     <icon drawable="@drawable/themed_icon_gboard" package="com.google.android.inputmethod.latin" />
     <icon drawable="@drawable/themed_icon_home" package="com.google.android.apps.chromecast.app" />
     <icon drawable="@drawable/themed_icon_play_services" package="com.google.android.ims" />
     <icon drawable="@drawable/themed_icon_youtube" package="com.google.android.youtube" />
     <icon drawable="@drawable/themed_icon_youtube" package="com.vanced.android.youtube" />
     <icon drawable="@drawable/themed_icon_dialer" package="com.google.android.dialer" />
+    <icon drawable="@drawable/themed_icon_dialer" package="com.android.dialer" />
     <icon drawable="@drawable/themed_icon_gfit_health" package="com.google.android.apps.fitness" />
     <icon drawable="@drawable/themed_icon_keep" package="com.google.android.keep" />
     <icon drawable="@drawable/themed_icon_play_store" package="com.android.vending" />
