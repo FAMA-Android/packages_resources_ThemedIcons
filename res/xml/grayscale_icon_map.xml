@@ -228,4 +228,6 @@
     <icon drawable="@drawable/themed_icon_wall_x" package="com.stresscodes.wallp" />
     <icon drawable="@drawable/themed_icon_dolby" package="com.motorola.dolby.dolbyui" />
     <icon drawable="@drawable/themed_icon_boost" package="com.rubenmayayo.reddit" />
+    <icon drawable="@drawable/themed_icon_tidal" package="com.aspiro.tidal" />
+    <icon drawable="@drawable/themed_icon_xmp_mod_player" package="org.helllabs.android.xmp" />
 </icons>
