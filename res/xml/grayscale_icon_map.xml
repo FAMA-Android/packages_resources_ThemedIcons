@@ -63,12 +63,7 @@
     <icon drawable="@drawable/themed_icon_tasks" package="com.google.android.apps.tasks" />
     <icon drawable="@drawable/themed_icon_pixeltips" package="com.google.android.apps.tips" />
     <icon drawable="@drawable/themed_icon_wear_os" package="com.google.android.wearable.app" />
-    <icon drawable="@drawable/themed_icon_youtube_music" package="com.vanced.android.apps.youtube.music" />
-    <icon drawable="@drawable/themed_icon_youtube" package="com.vanced.android.youtube" />
     <icon drawable="@drawable/themed_icon_vanced_manager" package="com.vanced.manager" />
-    <icon drawable="@drawable/themed_icon_camera" package="org.codeaurora.snapcam" />
-    <icon drawable="@drawable/themed_icon_camera" package="com.google.android.GoogleCameraEng" />
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC" />
     <icon drawable="@drawable/themed_icon_camera" package="com.google.android.GoogleCameraPixelX" />
     <icon drawable="@drawable/themed_icon_camera" package="com.google.android.apps.cameralite" />
     <icon drawable="@drawable/themed_icon_camera" package="com.footej.camera2" />
