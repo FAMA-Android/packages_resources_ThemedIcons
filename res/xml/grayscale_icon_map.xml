@@ -74,6 +74,7 @@
     <icon drawable="@drawable/themed_icon_camera" package="com.oppo.camera" />
     <icon drawable="@drawable/themed_icon_camera" package="com.oplus.camera" />
     <icon drawable="@drawable/themed_icon_camera" package="app.grapheneos.camera" />
+    <icon drawable="@drawable/themed_icon_camera" package="app.grapheneos.camera.play" />
     <icon drawable="@drawable/themed_icon_photos" package="com.google.android.apps.photosgo" />
     <icon drawable="@drawable/themed_icon_files" package="com.google.android.documentsui" />
     <icon drawable="@drawable/themed_icon_mtmanager" package="bin.mt.plus" />
