@@ -47,6 +47,7 @@
     <icon drawable="@drawable/themed_icon_play_services" package="com.google.android.ims" />
     <icon drawable="@drawable/themed_icon_youtube" package="com.google.android.youtube" />
     <icon drawable="@drawable/themed_icon_youtube" package="com.vanced.android.youtube" />
+    <icon drawable="@drawable/themed_icon_youtube" package="com.revanced.android.youtube" />
     <icon drawable="@drawable/themed_icon_dialer" package="com.google.android.dialer" />
     <icon drawable="@drawable/themed_icon_dialer" package="com.android.dialer" />
     <icon drawable="@drawable/themed_icon_gfit_health" package="com.google.android.apps.fitness" />
